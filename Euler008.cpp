@@ -2,6 +2,9 @@
 What do you call a dog that does magic tricks?
 A labracadabrador.
 */
+/*
+https://www.hackerrank.com/contests/projecteuler/challenges/euler008
+*/
 
 #include <bits/stdc++.h>
 
